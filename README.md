@@ -28,7 +28,7 @@ Mergetable is a Spring Boot project that demonstrates entity merging using JPA e
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/aditya9389/mergetable.git
    cd mergetable
    ```
 2. Configure the database in `application.properties`:
